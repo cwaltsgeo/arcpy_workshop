@@ -18,3 +18,7 @@ The Kangaroo Island bushfires were a tragic event that decimated the island's ve
 - [Arcpy Essentials](https://www.esri.com/training/catalog/5e7a48e6a662e60f85592a97/arcpy-essentials/)
 - [Learn Python in ArcGIS Pro](https://learn.arcgis.com/en/paths/learn-python-in-arcgis-pro/)
 - [ArcGIS Pro Project Package](https://arcg.is/iTTau0)
+
+**Provide Feedback**
+
+- [Arcpy Workshop Survey](https://arcg.is/b9qL8)
